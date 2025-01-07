@@ -1,12 +1,4 @@
 
-# TypeScript Template
-
-Features
-	•	Organized project structure
-	•	TypeScript configuration
-	•	Ready-to-use scripts for building and running
-	•	Jest for unit testing
-
 # Project Structure
 ```
 typescript-template/
