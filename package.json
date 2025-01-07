@@ -1,0 +1,21 @@
+{
+  "name": "typescript-template",
+  "version": "1.0.0",
+  "description": "A universal TypeScript project template",
+  "main": "dist/mian.js",
+  "scripts": {
+    "start": "tsc && node dist/main.js",
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^29.2.0",
+    "@types/node": "^18.11.0",
+    "jest": "^29.2.0",
+    "ts-jest": "^29.2.0",
+    "typescript": "^5.0.0"
+  }
+}
