@@ -8,7 +8,7 @@ Features
 	•	Jest for unit testing
 
 # Project Structure
-
+```
 typescript-template/
 ├── src/
 │   ├── main.ts        # Main entry point of the application
@@ -25,7 +25,7 @@ typescript-template/
 ├── jest.config.js      # Jest configuration for unit testing
 ├── README.md           # Project documentation
 └── LICENSE             # License information (optional)
-
+```
 # Usage:
 
 1.	Clone the repository:
