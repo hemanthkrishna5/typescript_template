@@ -28,17 +28,16 @@ typescript-template/
 ```
 # Usage:
 
-1.	Clone the repository:
+1.	Clone this repository
 
-```bash
-git clone <template-repo-url> new-project-name
-```
 
-2.	Install dependencies using pnpm:
+
+2.	Install dependencies using pnpm :
 
 ```bash
 pnpm install
 ```
+
 
 3.	Start the project:
 
